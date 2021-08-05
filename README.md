@@ -16,7 +16,7 @@
 
  ### Opções de configurações e outras observações estão como comentários no código. Um exemplo abaixo, caso seja escolhido o navegador Chrome como braowser para teste usando o Selenium. No código, existe cofigurações para Firefox tambem.
 
-#### /*ChromeOptions options = new ChromeOptions();
+#### /* ChromeOptions options = new ChromeOptions();
 ####            options.AddArgument("headless");
 ####            options.AddArgument("no-sandbox");
 ####            //options.AddArgument("proxy-server='direct://'");
