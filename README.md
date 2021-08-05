@@ -16,16 +16,16 @@
 
  ### Opções de configurações e outras observações estão como comentários no código. Um exemplo abaixo, caso seja escolhido o navegador Chrome como braowser para teste usando o Selenium. No código, existe cofigurações para Firefox tambem.
 
-/*ChromeOptions options = new ChromeOptions();
-            options.AddArgument("headless");
-            options.AddArgument("no-sandbox");
-            //options.AddArgument("proxy-server='direct://'");
-            options.AddArgument("proxy-auto-detect");
-            options.AddArgument("proxy-bypass-list=*");
-            options.AddUserProfilePreference("disable-popup-blocking", "true");
-*/
-            // Inicializa o IWebDriver do selenium, é ele que disponibiliza as consultas e manipulacoes das paginas. 
-            //_driver = new ChromeDriver(service, options);
+#### /*ChromeOptions options = new ChromeOptions();
+####            options.AddArgument("headless");
+####            options.AddArgument("no-sandbox");
+####            //options.AddArgument("proxy-server='direct://'");
+####            options.AddArgument("proxy-auto-detect");
+####            options.AddArgument("proxy-bypass-list=*");
+####            options.AddUserProfilePreference("disable-popup-blocking", "true");
+#### */
+####            // Inicializa o IWebDriver do selenium, é ele que disponibiliza as consultas e manipulacoes das paginas. 
+####            //_driver = new ChromeDriver(service, options);
 
 ------------------------------------------------------------------------------------
 ## Este repositório faz parte dos cursos/bootcamps da Digital Innovation One
